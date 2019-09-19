@@ -14,7 +14,7 @@
             "name": "cordova-windows"
         }
     ],
-    "name": "com.mirasense.scanditsdk.plugin",
+    "name": "com.mirasense.scanditsdk.plugin2",
     "repository": {
         "url": "git+https://github.com/Scandit/BarcodeScannerPlugin.git",
         "type": "git"
@@ -36,7 +36,7 @@
             "android",
             "windows"
         ],
-        "id": "com.mirasense.scanditsdk.plugin"
+        "id": "com.mirasense.scanditsdk.plugin2"
     },
     "homepage": "https://github.com/Scandit/BarcodeScannerPlugin#readme",
     "description": "Scandit Barcode Scanner Plugin"
